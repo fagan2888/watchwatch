@@ -3,5 +3,8 @@
     "sales_url": "",
     "log_file": "",
     "pickledb_file": "",
-    "user_agent": ""
+    "user_agent": "",
+    "email_to": "",
+    "email_from": "",
+    "email_pwd": ""
 }
